@@ -1,0 +1,122 @@
+.title{
+
+  background-color:darkblue;
+  color:white;
+  font-size:50px;
+  height: 180px;
+  text-align: center;
+  padding-top: 70px;
+
+}
+
+.name1,.introduce,.member,.history-memo,.myself,.youtube,.form,footer{
+
+  padding:0 120px;  
+
+}
+
+.line-f,.member-line{
+
+  padding:20px 80px;
+  text-align: center;
+
+}
+
+.member{
+
+  margin-top:40px;
+
+}
+
+img{
+  border-radius: 20px;
+  size:cover;
+}
+
+.member2{
+  
+  float:right;
+
+  }
+
+  .member-pic{
+
+    margin-left: 100px;
+    width:300px;
+    height:300px;
+
+  }
+
+
+  .iconpic{
+
+    margin:25px;
+    width:80px;
+    height:80px;
+
+  }
+
+  .history-pic{
+
+    padding-left: 70px;
+    text-align: center;
+   
+  }
+
+  .member-pic1{
+
+    width: 500px;
+    height: 375px;
+    margin-right: 60px;
+    text-align: center;
+    margin-bottom: 40px;
+
+  }
+
+  .maebapic{
+
+    width:120px;
+    height:120px;
+    margin:8px;
+
+  }
+
+  h2,h3{
+
+    text-align: center;
+
+  }
+  
+
+
+  .youtube{
+
+    text-align: center;
+
+  }
+
+  .form-main p{
+
+    font-size: 23px;
+
+  }
+
+  .input,.textarea{
+
+
+    margin:10px 0 30px 0;
+    padding:20px;
+    font-size: 18px;
+    border:1px solid black;
+
+  }
+
+  .submites{
+
+    text-align: center;
+    margin:40px 0;
+
+  }
+
+
+
